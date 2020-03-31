@@ -1,0 +1,74 @@
+{
+  "authenticationDatabase" : {
+    "d06ee91c2d6a8f6490e79e1e408f1ac9" : {
+      "accessToken" : "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkMDZlZTkxYzJkNmE4ZjY0OTBlNzllMWU0MDhmMWFjOSIsInlnZ3QiOiI4OGI2MTIwNmU3MjQ0N2VlODdlMDM0OTNhOWZlOGIzOSIsInNwciI6IjM0Yjk1YjM1ZTc3ZDQ0NDZiNjM2ZjE5M2JhN2QxMDAwIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE1ODU4MzI4NjgsImlhdCI6MTU4NTY2MDA2OH0.oZdI5KvXq2XtLpHwrNzujqlTsI4xGq_Nk5hAl-TwA2k",
+      "profiles" : {
+        "34b95b35e77d4446b636f193ba7d1000" : {
+          "displayName" : "Penslo"
+        }
+      },
+      "properties" : [],
+      "username" : "charles.m.jones.jr@gmail.com"
+    }
+  },
+  "clientToken" : "91365e70-1a85-4d7d-a0cd-4edcc2839643",
+  "launcherVersion" : {
+    "format" : 21,
+    "name" : "",
+    "profilesFormat" : 2
+  },
+  "profiles" : {
+    "2bc34144a4c95bbf32b2da9f9f57bc29" : {
+      "created" : "2020-03-30T16:13:18.232Z",
+      "icon" : "Furnace",
+      "lastUsed" : "2020-03-31T13:26:20.297Z",
+      "lastVersionId" : "1.8",
+      "name" : "diversity",
+      "type" : "custom"
+    },
+    "4e77f0d2f5eff05fd9e5bc84b9e7a4b8" : {
+      "created" : "2020-03-28T15:00:03.119Z",
+      "gameDir" : "C:\\Users\\User\\AppData\\Roaming\\.minecraft",
+      "icon" : "Furnace",
+      "lastUsed" : "2020-03-31T15:22:22.875Z",
+      "lastVersionId" : "OptiForgeLiteLoader 1.7.10",
+      "name" : "\u0442\u0435\u0445\u043c\u0430\u0433",
+      "type" : "custom"
+    },
+    "52418332a21a6328c6889e545f96c9b2" : {
+      "created" : "1970-01-01T00:00:00.000Z",
+      "icon" : "Crafting_Table",
+      "lastUsed" : "1970-01-01T00:00:00.000Z",
+      "lastVersionId" : "latest-snapshot",
+      "name" : "",
+      "type" : "latest-snapshot"
+    },
+    "76ce105025545c610f8ec4e8b92aae99" : {
+      "created" : "1970-01-02T00:00:00.000Z",
+      "icon" : "Grass",
+      "lastUsed" : "1970-01-02T00:00:00.000Z",
+      "lastVersionId" : "latest-release",
+      "name" : "",
+      "type" : "latest-release"
+    }
+  },
+  "selectedUser" : {
+    "account" : "d06ee91c2d6a8f6490e79e1e408f1ac9",
+    "profile" : "34b95b35e77d4446b636f193ba7d1000"
+  },
+  "settings" : {
+    "channel" : "release",
+    "crashAssistance" : true,
+    "enableAdvanced" : false,
+    "enableAnalytics" : true,
+    "enableHistorical" : false,
+    "enableReleases" : true,
+    "enableSnapshots" : false,
+    "keepLauncherOpen" : false,
+    "locale" : "ru-RU",
+    "profileSorting" : "ByLastPlayed",
+    "showGameLog" : false,
+    "showMenu" : false,
+    "soundOn" : false
+  }
+}
